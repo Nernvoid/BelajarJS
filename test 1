@@ -4,7 +4,7 @@
 </HEAD>
 <BODY>
 <SCRIPT language="Javascript">
-alert("Hallo !");
+alert("Ni hao !");
 </SCRIPT>
 </BODY>
 </HTML>
